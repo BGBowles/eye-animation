@@ -1,2 +1,3 @@
 # eye-animation
-Emeritus xPRO Animation Project
+
+This simple project was completed for the Emeritus xPRO Coding certificate.
